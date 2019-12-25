@@ -1,0 +1,25 @@
+{
+  "name": "v-side-bar",
+  "version": "1.0.0",
+  "description": "A Vue - based sidebar plug-in.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PsChina/vue-side-bar.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-side-bar",
+    "side-bar",
+    "v-side-bar"
+  ],
+  "author": "PsChina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PsChina/vue-side-bar/issues"
+  },
+  "homepage": "https://github.com/PsChina/vue-side-bar#readme"
+}
