@@ -28,3 +28,7 @@ Vue.use(SideBar);
     </div>
 </template>
 ```
+
+## demo
+
+![demo-gif](https://github.com/PsChina/utility/blob/master/img/side-bar-demo.gif)
