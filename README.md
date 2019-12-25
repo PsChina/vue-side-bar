@@ -4,7 +4,7 @@
 
 This is a Vue - based sidebar plug-in.
 
-# install
+# Install
 
 ```bash
 npm i v-side-bar -S
