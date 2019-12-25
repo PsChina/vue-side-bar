@@ -4,6 +4,14 @@
 
 This is a Vue - based sidebar plug-in.
 
+# install
+
+```bash
+npm i v-side-bar -S
+# or
+# yarn add v-side-bar -S
+```
+
 # How to use
 
 ```js
